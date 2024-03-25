@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+
 <h1 align="center">Hi! I'm Camila Figueroa </h1>
 <h3 align="center">⚡ Electrical Civil Engineering Student ⚡</h3>
 
@@ -70,6 +72,5 @@ Others
 <a href="mailto:camifig17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="CamilaFigueroaCV.pdf">
-    <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
