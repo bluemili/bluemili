@@ -5,7 +5,7 @@ I am a 6th-year student of Electrical Civil Engineering at the Universidad de Ch
 
 </div>
 <br>
-## About me <img src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/giphy.gif?cid=6c09b952xpq9apvqg42lg3sc6lg19dl559g2m69w0r2nq1h7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40px">
+## <img src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/giphy.gif?cid=6c09b952xpq9apvqg42lg3sc6lg19dl559g2m69w0r2nq1h7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="35"><b> About me</b>
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -54,16 +54,14 @@ Others
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
-<h3 align="center" >🐸 Connect with me 🐸</h3>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/camila-figueroa-056865226/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:camifig17@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="CamilaFigueroaCV.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-</p>
+## Connect with me 🐸
+<a href="https://www.linkedin.com/in/camila-figueroa-056865226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:camifig17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="CamilaFigueroaCV.pdf">
+    <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
+</a>
