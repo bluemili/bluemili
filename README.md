@@ -12,12 +12,12 @@ I am a 6th-year student of Electrical Civil Engineering at the Universidad de Ch
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.tenor.com/hTEZeqwOPWgAAAAM/crumb-cat.gif" />
 
 - 🏫 I am currently in the last year of my degree (I hope so).
 - 🌱 I would love to apply my knowledge of Machine Learning in areas such as medicine or any field that is beneficial for people and the world.
 - 🕵️‍♀️ Currently, I am learning about cybersecurity in addition to my regular coursework related to data science.
-- 💖 In my free time, I enjoy doing makeup, drawing, watching anime/reading manga, and spending quality time with the people I care about.
+- 💖 In my free time, I enjoy doing makeup, drawing, watching anime/series/movies, reading manga and spending quality time with the people I care about.
 
 <br>
 <br>
