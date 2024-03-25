@@ -61,7 +61,7 @@ Others
 
 <br>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiY3NzcnBuY2k1eXJ4cnUzazY0dWc4OXptM2ozZ3Ftejh2bjBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mBemhQqkEH3MDN4LT/giphy.gif" width="30"><b> Connect with me  </b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiY3NzcnBuY2k1eXJ4cnUzazY0dWc4OXptM2ozZ3Ftejh2bjBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mBemhQqkEH3MDN4LT/giphy.gif" width="35"><b> Connect with me  </b>
 <br>
 
 <a href="https://www.linkedin.com/in/camila-figueroa-056865226/">
