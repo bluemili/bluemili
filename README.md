@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Camila Figueroa </h1>
-<h3 align="center">⚡ Electrical Civil Engineering student ⚡</h3>
+<h3 align="center">⚡ Electrical Civil Engineering Student ⚡</h3>
 
 I am a 6th-year student of Electrical Civil Engineering at the Universidad de Chile, specialized in the area of Computational Intelligence. I live in Santiago de Chile. Currently, I am conducting research for my thesis project to conclude my degree.
 
@@ -37,7 +37,7 @@ I am a 6th-year student of Electrical Civil Engineering at the Universidad de Ch
 <br>
 <br>
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack 
 
 Programming Languages
 
@@ -59,7 +59,11 @@ Others
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
 
-## Connect with me 🐸
+<br>
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRiY3NzcnBuY2k1eXJ4cnUzazY0dWc4OXptM2ozZ3Ftejh2bjBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mBemhQqkEH3MDN4LT/giphy.gif" width="30"><b> Connect with me  </b>
+<br>
+
 <a href="https://www.linkedin.com/in/camila-figueroa-056865226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
