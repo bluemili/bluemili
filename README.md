@@ -4,8 +4,12 @@
 I am a 6th-year student of Electrical Civil Engineering at the Universidad de Chile, specialized in the area of Computational Intelligence. I live in Santiago de Chile. Currently, I am conducting research for my thesis project to conclude my degree.
 
 </div>
+
 <br>
-## <img src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/giphy.gif?cid=6c09b952xpq9apvqg42lg3sc6lg19dl559g2m69w0r2nq1h7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="35"><b> About me</b>
+
+## <img src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/giphy.gif?cid=6c09b952xpq9apvqg42lg3sc6lg19dl559g2m69w0r2nq1h7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"><b> About me</b>
+
+
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
