@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <h1 align="center">Hi! I'm Camila Figueroa </h1>
-<h3 align="center">⚡ Electrical Civil Engineering Student ⚡</h3>
+<h3 align="center">⚡ Electrical Civil Engineer ⚡</h3>
 
-I am a 6th-year student of Electrical Civil Engineering at the Universidad de Chile, specialized in the area of Computational Intelligence. I live in Santiago de Chile. Currently, I am conducting research for my thesis project to conclude my degree.
+I am an Electrical Civil Engineer from the Universidad de Chile, specialized in the area of Computational Intelligence. I live in Santiago de Chile. My academic background and thesis research focused on applying Machine Learning techniques to real-world problems, particularly in impactful domains.
 
 </div>
 
@@ -11,17 +11,17 @@ I am a 6th-year student of Electrical Civil Engineering at the Universidad de Ch
 
 ## <img src="https://media3.giphy.com/media/Ke2X2JvXLIrIycWppL/giphy.gif?cid=6c09b952xpq9apvqg42lg3sc6lg19dl559g2m69w0r2nq1h7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"><b> About me</b>
 
-
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.tenor.com/hTEZeqwOPWgAAAAM/crumb-cat.gif" />
 
-- 🏫 I am currently in the last year of my degree (I hope so).
-- 🌱 I would love to apply my knowledge of Machine Learning in areas such as medicine or any field that is beneficial for people and the world.
-- 🕵️‍♀️ Currently, I am learning about cybersecurity in addition to my regular coursework related to data science.
-- 💖 In my free time, I enjoy doing makeup, drawing, watching anime/series/movies, reading manga and spending quality time with the people I care about.
+- 🎓 I am a graduated Electrical Civil Engineer.
+- 🌱 I am passionate about applying Machine Learning to areas such as medicine and other fields that generate positive impact on people and society.
+- 🕵️‍♀️ I am continuously learning about cybersecurity, in addition to deepening my knowledge in data science and artificial intelligence.
+- 💖 In my free time, I enjoy doing makeup, drawing, watching anime/series/movies, reading manga, and spending quality time with the people I care about.
 
 <br>
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
